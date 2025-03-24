@@ -1,11 +1,9 @@
-File > Import > git > project from git > clone url > https://github.com/JayOsorio01/Dishtansya
-
-mvn > update project
-
-mvn clean > mvn install
-
 #Tools
-Java 17 > Springboot 3.4.4 > Postgresql 17
+Java 17 > Springboot 3.4.4 > Postgresql 17 > eclipse 2024/12
+
+File > Import > git > project from git > clone url > https://github.com/JayOsorio01/Dishtansya
+mvn > update project
+mvn clean > mvn install
 
 DatabaseName > exchangefairdb
 
